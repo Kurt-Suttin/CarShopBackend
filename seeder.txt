@@ -1,0 +1,103 @@
+{
+    "color": "Red",
+    "name": "Ferrari",
+    "model": "488 Spider",
+    "make": "Ferrari",
+    "year": "2023",
+    "price": 280000,
+    "image": "https://gallery.yopriceville.com/downloadfullsize/send/10765",
+    "sold" : false
+}
+{
+    "color": "Blue",
+    "name": "Lamborghini",
+    "model": "Huracan Evo",
+    "make": "Lamborghini",
+    "year": "2024",
+    "price": 300000,
+    "image": "https://hips.hearstapps.com/hmg-prod/images/2020-lamborghini-huracan-evo-rwd-110-1599740187.jpg?crop=0.609xw:0.457xh;0.217xw,0.345xh&resize=1200:*",
+    "sold" : false
+}
+{
+    "color": "Silver",
+    "name": "Porsche",
+    "model": "911 Turbo S",
+    "make": "Porsche",
+    "year": "2023",
+    "price": 250000,
+    "image": "https://hpe-photos.s3.us-east-2.amazonaws.com/wp-content/uploads/20220509072627/turbo-s-01.webp",
+    "sold" : false
+},
+{
+  "color": "Green",
+  "name": "BMW",
+  "model": "M3",
+  "make": "BMW",
+  "year": "2021",
+  "price": 280000,
+  "image": "https://cdn.bmwblog.com/wp-content/uploads/2021/02/bmw-m3-g80-java-green.jpg",
+  "sold": "false"
+}
+{
+  "color": "Pink",
+  "name": "Bugatti",
+  "model": "La Voiture",
+  "make": "Bugatti",
+  "year": "2021",
+  "price": 300000,
+  "image": "https://i.redd.it/41vdjo2f6c661.jpg",
+  "sold": "false"  
+}
+{
+  "color": "Yellow",
+  "name": "Audi R8 V10 Plus",
+  "model": "R8 V10 Plus",
+  "make": "Audi",
+  "year": "2023",
+  "price": 270000,
+  "image": "https://www.digitaltrends.com/wp-content/uploads/2017/10/2018-Audi-R8-Spyder-11.jpg?resize=800%2C418&p=1",
+  "sold": false
+}
+{
+  "color": "Orange",
+  "name": "Porsche 911 GT3",
+  "model": "911 GT3",
+  "make": "Porsche",
+  "year": "2022",
+  "price": 290000,
+  "image": "https://s1.cdn.autoevolution.com/images/news/gallery/hot-orange-2023-porsche-911-gt3-rs-enters-a-digital-store-gets-limited-vmpc-303s_1.jpg",
+  "sold": false
+}
+{
+  "color": "Purple",
+  "name": "Lexus LC 500",
+  "model": "LC 500",
+  "make": "Lexus",
+  "year": "2023",
+  "price": 260000,
+  "image": "https://www.car-revs-daily.com/wp-content/uploads/LC500-Fantasy-Colorizer-Renderings-95.jpg",
+  "sold": false
+}
+{
+  "color": "Black",
+  "name": "Mercedes-Benz S-Class",
+  "model": "S-Class",
+  "make": "Mercedes-Benz",
+  "year": "2022",
+  "price": 310000,
+  "image": "https://i.pinimg.com/736x/d4/83/60/d48360e4c0116bd9d94c66aadd04d66c.jpg", 
+  "sold": false
+}
+{
+  "color": "White",
+  "name": "Rolls-Royce Ghost",
+  "model": "Ghost",
+  "make": "Rolls-Royce",
+  "year": "2023",
+  "price": 320000,
+  "image": "https://i.ebayimg.com/images/g/cXAAAOSwxk5i4yQF/s-l1200.webp", 
+  "sold": false
+}
+
+
+
